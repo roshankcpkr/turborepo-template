@@ -1,6 +1,6 @@
 # Turborepo starter template with tailwindcss and shadcn-ui
 
-Turboreop Monorepo template with Shadcn-ui and tailwindcss integrated.
+Turborepo, Monorepo template with Shadcn-ui and tailwindcss integrated.
 
 ## Using this example
 
